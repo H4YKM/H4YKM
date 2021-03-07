@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @H4YKM
 - 👀 I’m interested in programming, motion design, web developing, web design & more
-- 🌱 I’m currently learning JavaScript, Vue, React, Angular
+- 🌱 I’m currently learning JavaScript, Vue, React, Angular, Node, Express & more!
 - 💞️ I’m looking to collaborate on courses and code
 - 📫 How to reach me haykm2006@gmail.com
 
