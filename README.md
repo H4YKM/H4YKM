@@ -24,8 +24,3 @@ setInterval(() => {
         button.click()
     }, 200) // Change interval
 ```
-
-<!---
-H4YKM/H4YKM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
