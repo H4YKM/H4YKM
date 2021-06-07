@@ -6,7 +6,7 @@
 
 Last code:
 
-```
+```js
 const login = document.getElementById('username')
 const password = document.getElementById('password')
 const button = document.querySelector('.fadeIn.third.shadow')
@@ -23,4 +23,4 @@ setInterval(() => {
         console.log('Hacking...')
         button.click()
     }, 200) // Change interval
-```js
+```
