@@ -23,4 +23,4 @@ setInterval(() => {
         console.log('Hacking...')
         button.click()
     }, 200) // Change interval
-```
+```js
